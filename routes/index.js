@@ -4,4 +4,4 @@ const storeController = require('../controllers/storeController');
 
 router.get('/', storeController.homePage);
 
-module.exports = router;   
+module.exports = router;
